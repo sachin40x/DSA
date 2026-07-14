@@ -8,8 +8,6 @@ This repository contains problem solutions, algorithm implementations, and learn
 ## 🎯 Objectives
 - Improve problem-solving skills  
 - Master core data structures  
-- Practice frequently asked interview questions  
-- Build a strong foundation for coding interviews
 
 ---
 
